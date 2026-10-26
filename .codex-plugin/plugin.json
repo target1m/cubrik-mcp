@@ -1,0 +1,48 @@
+{
+  "name": "cubrik",
+  "version": "1.0.0",
+  "description": "cubrik for your AI app: create, test and run AI trading agents, backtest ideas on historical candles, read your portfolio, results and Analytics, copy ready-made agents from the Library, and trade on the brokers you connected to cubrik. Eight skills included. No tool moves money in or out of an account.",
+  "author": {
+    "name": "cubrik",
+    "email": "help@cubrik.ai",
+    "url": "https://cubrik.ai"
+  },
+  "homepage": "https://cubrik.ai/en/mcp",
+  "repository": "https://github.com/target1m/cubrik-mcp",
+  "license": "MIT",
+  "keywords": [
+    "trading",
+    "ai-agents",
+    "backtesting",
+    "portfolio",
+    "crypto",
+    "forex",
+    "brokers",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.codex-plugin/mcp.json",
+  "interface": {
+    "displayName": "cubrik",
+    "shortDescription": "AI trading agents, backtests and your brokers",
+    "longDescription": "Use your cubrik account from Codex: create and run AI trading agents on the brokers you connected, backtest a trading idea's rules on historical candles, read balances, positions, results and Analytics advice, and copy ready-made agents from cubrik's Library. Sign in with your cubrik account; every plan includes it, the free Demo plan too. You choose what the connection may do: read, manage agents, trade. No tool moves money into or out of an account. Not investment advice.",
+    "developerName": "Next Step L.L.C-FZ",
+    "category": "Finance",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "How are my cubrik agents doing this week?",
+      "Backtest a 4h EMA 20/50 crossover on BTC over the last 12 months",
+      "Show me Library agents that trade gold"
+    ],
+    "logo": "./logo-512.png",
+    "composerIcon": "./logo-512.png",
+    "brandColor": "#7c3aed",
+    "websiteURL": "https://cubrik.ai/en/mcp",
+    "privacyPolicyURL": "https://cubrik.ai/en/legal/privacy",
+    "termsOfServiceURL": "https://cubrik.ai/en/legal/terms",
+    "supportURL": "mailto:help@cubrik.ai"
+  }
+}

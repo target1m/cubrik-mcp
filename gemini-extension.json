@@ -1,0 +1,13 @@
+{
+  "name": "cubrik",
+  "version": "1.0.0",
+  "description": "cubrik: AI trading agents, backtests on historical candles, your portfolio, results and Analytics, the Library of ready-made agents, and your brokers' own tools. No tool moves money.",
+  "mcpServers": {
+    "cubrik": {
+      "httpUrl": "https://mcp.cubrik.ai/mcp",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}

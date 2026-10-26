@@ -1,0 +1,32 @@
+{
+  "name": "cubrik-mcp",
+  "owner": {
+    "name": "target1m"
+  },
+  "metadata": {
+    "description": "cubrik MCP — AI trading agents, backtests, portfolio and brokers for Claude",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "cubrik",
+      "source": "./",
+      "description": "cubrik for your AI app: create, test and run AI trading agents, backtest ideas on historical candles, read your portfolio, results and Analytics, copy ready-made agents from the Library, and trade on the brokers you connected to cubrik. Eight skills included. No tool moves money in or out of an account.",
+      "version": "1.0.0",
+      "author": {
+        "name": "target1m"
+      },
+      "keywords": [
+        "trading",
+        "ai-agents",
+        "backtesting",
+        "portfolio",
+        "crypto",
+        "forex",
+        "brokers",
+        "mcp"
+      ],
+      "category": "finance"
+    }
+  ]
+}
