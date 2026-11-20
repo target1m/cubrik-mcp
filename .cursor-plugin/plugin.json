@@ -7,6 +7,7 @@
     "name": "cubrik",
     "email": "help@cubrik.ai"
   },
+  "publisher": "cubrik",
   "homepage": "https://cubrik.ai/en/mcp",
   "repository": "https://github.com/target1m/cubrik-mcp",
   "license": "MIT",
@@ -22,5 +23,11 @@
   ],
   "logo": "logo-512.png",
   "skills": "./skills/",
-  "mcpServers": "./mcp.json"
+  "mcpServers": {
+    "cubrik": {
+      "type": "http",
+      "url": "https://mcp.cubrik.ai/mcp",
+      "placement": "server"
+    }
+  }
 }
