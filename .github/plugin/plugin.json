@@ -1,7 +1,7 @@
 {
   "name": "cubrik",
   "description": "cubrik for your AI app: create, test and run AI trading agents, backtest ideas on historical candles, read your portfolio, results and Analytics, copy ready-made agents from the Library, and trade on the brokers you connected to cubrik. Eight skills included. No tool moves money in or out of an account.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "cubrik",
     "email": "help@cubrik.ai",
