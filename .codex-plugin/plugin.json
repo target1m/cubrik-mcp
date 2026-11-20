@@ -25,7 +25,7 @@
   "interface": {
     "displayName": "cubrik",
     "shortDescription": "AI trading agents, backtests and your brokers",
-    "longDescription": "Use your cubrik account from Codex: create and run AI trading agents on the brokers you connected, backtest a trading idea's rules on historical candles, read balances, positions, results and Analytics advice, and copy ready-made agents from cubrik's Library. Sign in with your cubrik account; every plan includes it, the free Demo plan too. You choose what the connection may do: read, manage agents, trade. No tool moves money into or out of an account. Not investment advice.",
+    "longDescription": "Use your cubrik account from Codex: create and run AI trading agents on the brokers you connected, backtest a trading idea's rules on historical candles, read balances, positions, results and Analytics advice, and copy ready-made agents from cubrik's Library. Sign in with your cubrik account; it comes with the Intermediate plan and above. You choose what the connection may do: read, manage agents, trade. No tool moves money into or out of an account. Not investment advice.",
     "developerName": "Next Step L.L.C-FZ",
     "category": "Finance",
     "capabilities": [

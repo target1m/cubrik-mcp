@@ -18,6 +18,6 @@ claude mcp add --transport http cubrik https://mcp.cubrik.ai/mcp
 { "mcpServers": { "cubrik": { "url": "https://mcp.cubrik.ai/mcp" } } }
 ```
 
-The user needs a cubrik account (https://app.cubrik.ai — the free Demo plan is enough). To trade,
+The user needs a cubrik account on the Intermediate plan or above (https://app.cubrik.ai). To trade,
 they connect a broker or exchange in cubrik first (Settings → Brokers); keys are never entered in
 the AI app.

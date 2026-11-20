@@ -11,7 +11,8 @@ https://mcp.cubrik.ai/mcp
 ```
 
 Sign in with your cubrik account (OAuth) the first time the app calls it; there is no key to copy.
-Every cubrik plan includes it, the free Demo plan too. Your plan's limits apply as they do in cubrik.
+It comes with cubrik's Intermediate plan and every plan above it; your plan's limits apply as they do
+in cubrik.
 
 ## Install
 
