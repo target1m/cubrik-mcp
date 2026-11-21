@@ -2,7 +2,7 @@
   "mcpServers": {
     "cubrik": {
       "type": "http",
-      "url": "${CUBRIK_MCP_URL:-https://mcp.cubrik.ai/mcp}"
+      "url": "https://mcp.cubrik.ai/mcp"
     }
   }
 }
