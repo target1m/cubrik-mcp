@@ -8,6 +8,8 @@
     "email": "help@cubrik.ai"
   },
   "homepage": "https://cubrik.ai/en/mcp",
+  "documentationUrl": "https://cubrik.ai/en/mcp",
+  "supportUrl": "https://cubrik.ai/en/contact",
   "privacyPolicyUrl": "https://cubrik.ai/en/legal/privacy",
   "repository": "https://github.com/target1m/cubrik-mcp",
   "license": "MIT",
